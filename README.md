@@ -12,5 +12,3 @@ Aplikasi GUI sederhana untuk pembayaran UKT mahasiswa, menggunakan Python dan SQ
 python main.py
 ```
 
-## Screenshot Output
-Silakan tambahkan screenshot hasil program di sini jika diperlukan.
